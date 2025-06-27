@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+pandas
+datasets
+langgraph
+langchain
+langchain-community
