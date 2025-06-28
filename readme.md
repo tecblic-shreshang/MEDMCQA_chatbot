@@ -1,7 +1,3 @@
-
-## ✅ `README.md`
-
-```markdown
 # 🩺 MedMCQA RAG Chatbot (Ollama + LangGraph)
 
 A fully local, Retrieval-Augmented Generation (RAG) medical chatbot that uses:
@@ -18,15 +14,13 @@ A fully local, Retrieval-Augmented Generation (RAG) medical chatbot that uses:
 ## 📁 Folder Structure
 
 ```
-
-MedMCQA/
+MEDMCQA_chatbot/
 ├── app.py                # Streamlit UI
-├── medmcq\_chatbot.py     # Dataset, preprocessing, and vector store
-├── rag\_graph.py          # LangGraph flow with Ollama
+├── medmcq_chatbot.py     # Dataset, preprocessing, and vector store
+├── rag_graph.py          # LangGraph flow with Ollama
 ├── requirements.txt
 └── README.md
-
-````
+```
 
 ---
 
@@ -36,8 +30,8 @@ MedMCQA/
 
 ```bash
 git clone https://github.com/tecblic-shreshang/MEDMCQA_chatbot.git
-cd medmcqa
-````
+cd MEDMCQA_chatbot
+```
 
 ### 2. Install Python dependencies
 
